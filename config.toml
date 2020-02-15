@@ -80,7 +80,7 @@ privacy_policy = "https://policies.google.com/privacy"
 [[menu.main]]
   identifier = "servers"
   name = "Servers"
-  url = "/servers/"
+  url = "https://servers.beamng-mp.com"
 [[menu.main]]
   identifier = "patreon"
   name = "Patreon"
