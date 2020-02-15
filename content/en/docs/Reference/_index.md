@@ -1,9 +1,9 @@
 ---
-title: "Reference"
-linkTitle: "Reference"
+title: "Scripting Reference"
+linkTitle: "Scripting Reference"
 weight: 9
 description: >
-  Low level reference docs for your project.
+  Scripting documentation for the mod.
 ---
 
 {{% pageinfo %}}
