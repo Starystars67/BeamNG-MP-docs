@@ -3,36 +3,36 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+  Find out if BeamNG-MP is for you.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+All Documentation is currently a work in progress.
 {{% /pageinfo %}}
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+Welcome to the official docs of BeamNG-MP in this area you can find all the information you need
+to get started with BeamNG Multiplayer, including how to set up a server!
 
-Try answering these questions for your user in this page:
+Here are some questions you might have answered:
 
 ## What is it?
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+BeamNG-MP is the only working BeamNG.drive Multiplayer mod
 
-## Why do I want it?
+## Why should i use it?
 
-Help your user know if your project will help them. Useful information can include: 
+Still not sure? Well keep reading: 
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+* **What is it good for?**: Playing multiplayer with friends of course!
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+* **What is it not good for?**: Nothing! But please keep in mind the project is still in development.
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+* **Where can i join the discord**: Right here!: https://discord.gg/4VWgTJ2 
 
 ## Where should I go next?
 
-Give your users next steps from the Overview. For example:
+Lets get started:
 
-* [Getting Started](/getting-started/): Get started with $project
-* [Examples](/examples/): Check out some example code!
+* [Getting Started](/docs/getting-started/): Get started with $project
 
